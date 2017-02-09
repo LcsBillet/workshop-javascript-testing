@@ -1,5 +1,7 @@
 # workshop-javascript-testing
 
+Lucas BILLET
+
 Workshop given with Ynov's students
 
 ## Install
